@@ -3,12 +3,12 @@
 
 ## Bem-Vindos ao Grupo ON-G 
 ### O Projeto 
-  Nós somos um aplicativo voltado para área de  Rede Social, a qual tem como objetivo se tornar um ponto de divulgação e capitação de
-  recursos para ONGs por todo estado de São Paulo, trazendo o conhecimento das demandas dessas ONGs para os
-  usuários de forma geral, gerando uma ponte entre ambos. Contando com a possibilidade do cadastro de diversas
-  ONGs, essas poderão divulgar seu trabalho através de postagens no feed, enquanto usuários comuns  poderão utilizar
-  a aplicação, para localizar as ONGs mais próximas, através de categorias e entrando em contato para programas de
-  voluntariado e doações.
+  >Nós somos um aplicativo voltado para área de  Rede Social, a qual tem como objetivo se tornar um ponto de divulgação e capitação de
+  >recursos para ONGs por todo estado de São Paulo, trazendo o conhecimento das demandas dessas ONGs para os
+  >usuários de forma geral, gerando uma ponte entre ambos. Contando com a possibilidade do cadastro de diversas
+  >ONGs, essas poderão divulgar seu trabalho através de postagens no feed, enquanto usuários comuns  poderão utilizar
+  >a aplicação, para localizar as ONGs mais próximas, através de categorias e entrando em contato para programas de
+  >voluntariado e doações.
   
 ### Protótipo 
  - Começamos Criando um Protótipo utilizando a ferramenta do figma 
