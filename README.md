@@ -25,7 +25,6 @@
   - Criamos o feed de  postagens 
  
  ### Back-End (Tecnologias e Aplicações Utilizadas)
- - Room
  - Retrofit / Hilt / Glide
  - MVVM (Main View: View Model)
  - Live Data
