@@ -10,7 +10,7 @@
   >a aplicação, para localizar as ONGs mais próximas, através de categorias e entrando em contato para programas de
   >voluntariado e doações.
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=U47twu_lSnw.jpg)](https://www.youtube.com/watch?v=U47twu_lSnw)
+[![ON-G Projeto](https://youtu.be/U47twu_lSnw.jpg)](https://www.youtube.com/watch?v=U47twu_lSnw)
 
 
 
