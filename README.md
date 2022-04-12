@@ -10,6 +10,9 @@
   >a aplicação, para localizar as ONGs mais próximas, através de categorias e entrando em contato para programas de
   >voluntariado e doações.
   
+https://www.youtube.com/watch?v=U47twu_lSnw
+
+
 ### Protótipo 
  - Começamos Criando um Protótipo utilizando a ferramenta do figma 
  - Criamos a página inicial do nosso aplicativo 
@@ -37,23 +40,6 @@
 **Para saber mais sobre a equipe, clique no link abaixo :**
 
 **Link : https://tarsilawho.wixsite.com/on-g**
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
