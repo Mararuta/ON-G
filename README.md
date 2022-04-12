@@ -22,7 +22,7 @@
   - Criamos todos os Layouts da nossa aplicação 
   - Inserimos caixas de texto para Cadastro/Login
   - Inserimos os botôes edita/excluir
-  - Criamos o feed de  postagens 
+  - Criamos o feed de postagens 
  
  ### Back-End (Tecnologias e Aplicações Utilizadas)
  - Retrofit / Hilt / Glide
