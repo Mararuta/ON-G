@@ -10,7 +10,8 @@
   >a aplicação, para localizar as ONGs mais próximas, através de categorias e entrando em contato para programas de
   >voluntariado e doações.
 
-[![ON-G Projeto](https://youtu.be/U47twu_lSnw.jpg)](https://www.youtube.com/watch?v=U47twu_lSnw)
+[![Watch the video](https://cdn.discordapp.com/attachments/938409261577408522/963496583784173689/unknown.png)](https://www.youtube.com/watch?v=U47twu_lSnw)
+
 
 
 
@@ -20,8 +21,8 @@
  - Criamos a parte visual dos nossos botões 
  
  **Para saber mais cLique no link e acesse diretamente o nosso projeto inicial :**
- 
   **Link : https://www.figma.com/file/I7leAsLRzsHZDhnXMkUuSk/Untitled?node-id=0%3A1**
+  
  ### Front-End (Layout) 
   - Criamos todos os Layouts da nossa aplicação 
   - Inserimos caixas de texto para Cadastro/Login
